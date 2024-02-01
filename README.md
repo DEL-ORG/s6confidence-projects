@@ -1,1 +1,1 @@
-# s6confidence-projects
+# S6-PROJECTS
